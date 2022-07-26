@@ -1,0 +1,15 @@
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\bin\Debug\net6.0\SelectionStatementExcercise.exe
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\bin\Debug\net6.0\SelectionStatementExcercise.deps.json
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\bin\Debug\net6.0\SelectionStatementExcercise.runtimeconfig.json
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\bin\Debug\net6.0\SelectionStatementExcercise.dll
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\bin\Debug\net6.0\SelectionStatementExcercise.pdb
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.csproj.AssemblyReference.cache
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.AssemblyInfoInputs.cache
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.AssemblyInfo.cs
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.csproj.CoreCompileInputs.cache
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.dll
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\refint\SelectionStatementExcercise.dll
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.pdb
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\SelectionStatementExcercise.genruntimeconfig.cache
+C:\Users\foruk\source\repos\SelectionStatementExcercise\SelectionStatementExcercise\obj\Debug\net6.0\ref\SelectionStatementExcercise.dll
